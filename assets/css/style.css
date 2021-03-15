@@ -530,31 +530,6 @@ body {
   }
   
 
-/* ANIMATION CONTAINER */
-
-.animation .icon-boxes .icon-box {
-  text-align: center;
-  border-radius: 40px;
-  background: #fff;
-  box-shadow: 0px 1px 16px rgba(31, 31, 31, 0.3);
-  padding: 20px 40px;
-  width: 100%;
-  transition: 0.3s;
-}
-
-.animation .icon-boxes .icon-box p {
-  font-size: 15px;
-  color: #848484;
-}
-
-.animation .icon-boxes .icon-box:hover {
-  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-}
-
-/* END ANIMATION CONTAINER*/
-
-
-
 
 
   /*--------------------------------------------------------------

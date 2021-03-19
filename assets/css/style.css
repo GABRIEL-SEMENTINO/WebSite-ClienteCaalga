@@ -547,19 +547,18 @@ body {
 }
 */
 
-figure { width: 35%; min-width: 320px; margin:0 auto;}
-figcaption { font: 35% sans-serif; text-align: center;}
+figure { width: 45%; min-width: 320px; margin:0 auto;}
 video {
     width: 100%;
     height: auto;
     width: 5px;
     margin:0 auto;
     display: block;
-    text-align: center;
+    text-align:0 left;
     border-radius: 10px;
     background: #fff;
-    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.2);
-    padding: 15px 15px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+    padding: 10px 10px;
     width: 100%;
     transition: 0.3s;
 }

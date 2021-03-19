@@ -552,6 +552,16 @@ figcaption { font: 35% sans-serif; text-align: center;}
 video {
     width: 100%;
     height: auto;
+    width: 5px;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.2);
+    padding: 15px 15px;
+    width: 100%;
+    transition: 0.3s;
 }
 
 

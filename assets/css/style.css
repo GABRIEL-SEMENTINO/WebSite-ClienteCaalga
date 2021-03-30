@@ -19,7 +19,6 @@ body {
   h1, h2, h3, h4, h5, h6 {
     font-family: "NotoSansRegular", sans-serif;
   }
-  
  
   .back-to-top i {
     font-size: 28px;
@@ -389,8 +388,8 @@ body {
   }
   
   #hero .btn-get-started:hover {
-    background: #692525;
-    border: 2px solid #009970;
+    background: #4e4e4e;
+    border: 2px solid #4e4e4e;
   }
   
   @media (min-width: 1024px) {
@@ -1424,5 +1423,6 @@ video {
   text-decoration: none;
   
 }
+
 
 

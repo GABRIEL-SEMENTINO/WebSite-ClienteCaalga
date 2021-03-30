@@ -540,11 +540,6 @@ video {
 /* END VÍDEO */
 
 
-/* BOTÃO DE ORÇAMENTO */
-.
-/* END BOTÃO ORÇAMENTO */
-
-
 
   /*--------------------------------------------------------------
   # Why Us
@@ -1242,21 +1237,16 @@ video {
     transition: 0.3s;
 }
 
-
-
 #footer .social-links a:hover {
     background: #161616;
     color: #fff;
     text-decoration: none;
 }
 
-
-
 .btn .btn-get-started {
   text-decoration: #fcfcfc;
   color: #fff;
   text-decoration: none;
-  
 }
 
 
